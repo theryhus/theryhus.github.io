@@ -1830,8 +1830,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #ffffff;
-  background-color: #0067f6;
-  border-color: #0067f6; }
+  background-color: #000000;
+  border-color: #FBA14E; }
   .btn-primary:hover {
     color: #ffffff;
     background-color: #0057d0;
@@ -3750,7 +3750,7 @@ input[type="button"].btn-block {
 
 .badge-primary {
   color: #ffffff;
-  background-color: #0067f6; }
+  background-color: #212429; }
   a.badge-primary:hover, a.badge-primary:focus {
     color: #ffffff;
     background-color: #0052c3; }
@@ -7448,7 +7448,7 @@ aside .social-links {
     display: inline-block;
     font-size: 12px;
     line-height: 1;
-    color: #0067f6;
+    color: #212429;
     text-align: center;
     background-color: #ffffff;
     padding: 8px;
@@ -7478,7 +7478,7 @@ aside .widget {
     border-radius: 10px;
     box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.08); }
     aside .widget.card .widget-title {
-      color: #0067f6; }
+      color: #000000; }
 
 .btn-share {
   padding: 5px 25px;
@@ -7576,8 +7576,8 @@ header {
         margin: 15px 0;
         height: auto; } }
     .collapsible-nav .nav-link.active {
-      color: #0067f6;
-      border-bottom: 2px solid #0067f6;
+      color: #000000;
+      border-bottom: 2px solid #FBA14E;
       padding-bottom: 0; }
 
 body {
@@ -7682,9 +7682,9 @@ main {
         width: 10px;
         height: 10px;
         border-radius: 50%;
-        background-color: #979797; }
+        background-color: #FBA14E; }
       main .time-line-item:nth-child(2n)::after {
-        background-color: #0067f6; }
+        background-color: #FBA14E; }
       main .time-line-item:not(:first-child)::after {
         top: 5px; }
       main .time-line-item:last-child {
