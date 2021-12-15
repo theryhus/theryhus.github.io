@@ -134,7 +134,7 @@ sup {
   top: -.5em; }
 
 a {
-  color: #0067f6;
+  color: #000000;
   text-decoration: none;
   background-color: transparent; }
   a:hover {
@@ -7481,20 +7481,20 @@ aside .widget {
       color: #000000; }
 
 .btn-share {
-  padding: 5px 25px;
+  padding: 0px 0px;
   border: 0;
-  border-radius: 15px;
-  font-size: 0.75rem;
-  font-weight: 500;
-  line-height: 1.67;
-  height: 30px; }
+  border-radius: 0px;
+  font-size: 0rem;
+  font-weight: 0;
+  line-height: 0;
+  height: 0; }
   .btn-share:hover, .btn-share:focus, .btn-share:active {
     background-color: #ffffff;
     border: 0; }
   .btn-share:focus {
     box-shadow: none; }
   .btn-share:hover {
-    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.2); }
+    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0); }
 
 .btn-img {
   height: 10px;
@@ -7644,7 +7644,7 @@ main {
     font-size: 12px;
     font-weight: 500;
     line-height: 1;
-    color: #0067f6; }
+    color: #000000; }
   main p {
     font-size: 13px;
     line-height: 1.538;
@@ -7925,7 +7925,7 @@ main {
         line-height: 1;
         margin-bottom: 6px; }
       main .blog-posts-wrapper .blog-post-meta {
-        color: #0067f6;
+        color: #000000;
         text-transform: uppercase;
         font-size: 10px;
         font-weight: 500;
